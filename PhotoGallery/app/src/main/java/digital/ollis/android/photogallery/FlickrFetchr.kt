@@ -9,7 +9,7 @@ import java.net.HttpURLConnection
 import java.net.URL
 
 private const val TAG = "FlickrFetchr"
-private const val API_KEY = "83b2b02f6ba239f655392312e3746fa0"
+private const val API_KEY = ""
 private const val FETCH_RECENTS_METHOD = "flickr.photos.getRecent"
 private const val SEARCH_METHOD = "flickr.photos.search"
 
